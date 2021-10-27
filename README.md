@@ -8,3 +8,4 @@
 Krenrod/Krenrod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+vscode://vscode.github-authentication/did-authenticate?windowid=4&code=a511ea88303cf4eb9b67&state=59a8eda1-cb27-41be-b927-795ba4803854
